@@ -1,0 +1,1 @@
+I actually really like DSA. For me, it's always been like little puzzles that I get to solve. My goal this summer is to solve a Neetcode problem each weekday, so that I can keep up my problem solving skills. I'm a researcher right now, which means a lot of reading. Despite that it's important to me that I remember how to code and problem solve. Happy hacking!
